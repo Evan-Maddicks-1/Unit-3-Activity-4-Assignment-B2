@@ -2,7 +2,7 @@
 * @author Evan Maddicks
 * @version 1.0.0
 * @date 2025-11-20
-* @fileoverview this program responds to your choice of colour
+* @fileoverview this program calculates the price of a car based on your choices
 */
 
 //Feature prices
